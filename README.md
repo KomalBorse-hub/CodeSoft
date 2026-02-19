@@ -5,15 +5,15 @@ This project is developed as part of my Python Internship at CodeSoft.
 ## Features
 - Add Task
 - View Tasks
+- Mark Task as Completed
 - Update Task
 - Delete Task
-- Menu-driven interface
+- Data stored in file
 
 ## Technologies Used
 - Python
+- File Handling
+- Loops & Conditional Statements
 
 ## How to Run
-1. Install Python
-2. Run: python todo_list.py
-
-This project helped me improve my Python programming and logical thinking skills.
+python todo_list.py
